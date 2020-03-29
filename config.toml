@@ -1,4 +1,4 @@
-baseURL = "covid19.soluspay.net"
+baseURL = ""
 languageCode = "en-us"
 title = "Covid-19 Cases in Sudan"
 theme = "paper"

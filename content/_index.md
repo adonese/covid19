@@ -2,6 +2,7 @@
 layout = "single"
 url = "/"
 date = "2020-28-03"
+title = "Corona cases in Sudan - daily updated"
 +++
 
 # COVID-19
