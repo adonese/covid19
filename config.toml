@@ -2,3 +2,6 @@ baseURL = "covid19.soluspay.net"
 languageCode = "en-us"
 title = "Covid-19 Cases in Sudan"
 theme = "paper"
+enableGitInfo = "true"
+
+# author = "Mohamed Yousif"

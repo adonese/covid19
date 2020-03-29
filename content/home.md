@@ -11,3 +11,5 @@ date = "2020-28-03"
 - All In Khartoum
 - 5 from UAE
 - 1 from France
+
+Stay home, stay safe ❤
