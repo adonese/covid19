@@ -12,6 +12,6 @@ title = "Corona cases in Sudan - daily updated"
 - All In Khartoum
 - 6 from UAE
 - 1 from France
-- **2 Recovered**
+- **1 Recovered**
 
 Stay home, stay safe ❤
