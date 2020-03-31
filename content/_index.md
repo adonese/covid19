@@ -7,10 +7,11 @@ title = "Corona cases in Sudan - daily updated"
 
 # COVID-19
 
-- 6 Cases
+- 7 Cases
 - 2 dead
 - All In Khartoum
-- 5 from UAE
+- 6 from UAE
 - 1 from France
+- **2 Recovered**
 
 Stay home, stay safe ❤
